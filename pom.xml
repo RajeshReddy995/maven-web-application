@@ -105,7 +105,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Rajesh Reddy </name>
-	      <url>http://15.206.157.198:9980/rajeshreddy/repository/wallmart-snapshot/</url>
+	      <url>http://15.206.157.198:9980/rajeshreddy/repository/wallmart-release/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
