@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Rajesh Reddy</name>
-	      <url>http://15.206.157.198:9980/rajeshreddy/repository/wallmart-release/</url>
+	      <url>http://13.127.232.41:9980/rajeshreddy/repository/wallmart-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Rajesh Reddy </name>
-	      <url>http://15.206.157.198:9980/rajeshreddy/repository/wallmart-release/</url>
+	      <url>http://13.127.232.41:9980/rajeshreddy/repository/wallmart-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
